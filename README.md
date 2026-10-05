@@ -120,6 +120,9 @@ The lab demonstrated how network interfaces, routing, security policies and acce
 ### 4. Website Blocking Validation
 ![Website Blocking Validation](screenshots/04-website-blocking-validation.png)
 
+### 5. Assessment Result — 15/15
+![Palo Alto Assessment Result 15 of 15](screenshots/05-palo-alto-assessment-result-15-of-15.png)
+
 ---
 
 ## 📄 Project Evidence
@@ -129,6 +132,10 @@ The completed Palo Alto NGFW configuration submission is included in this reposi
 [📄 View Palo Alto NGFW Configuration Submission](Palo%20Alto%20NGFW%20Configuration%20Submission.docx)
 
 The project evidence demonstrates Palo Alto device configuration, security-policy creation, routing validation and website-blocking controls.
+
+**Assessment result:** 15/15
+
+[🏆 View Assessment Result](screenshots/05-palo-alto-assessment-result-15-of-15.png)
 
 ---
 
