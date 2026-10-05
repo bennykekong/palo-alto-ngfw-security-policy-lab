@@ -106,9 +106,29 @@ The lab demonstrated how network interfaces, routing, security policies and acce
 
 ---
 
+## 📸 Project Screenshots
+
+### 1. Palo Alto Login Banner
+![Palo Alto Login Banner](screenshots/01-palo-alto-login-banner.png)
+
+### 2. Basic Firewall Security Policy
+![Basic Firewall Security Policy](screenshots/02-basic-firewall-security-policy.png)
+
+### 3. Traceroute Routing Validation
+![Traceroute Routing Validation](screenshots/03-traceroute-routing-validation.png)
+
+### 4. Website Blocking Validation
+![Website Blocking Validation](screenshots/04-website-blocking-validation.png)
+
+---
+
 ## 📄 Project Evidence
 
-The completed Palo Alto NGFW configuration submission will be included in this repository as supporting evidence.
+The completed Palo Alto NGFW configuration submission is included in this repository as supporting evidence.
+
+[📄 View Palo Alto NGFW Configuration Submission](Palo%20Alto%20NGFW%20Configuration%20Submission.docx)
+
+The project evidence demonstrates Palo Alto device configuration, security-policy creation, routing validation and website-blocking controls.
 
 ---
 
